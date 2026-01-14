@@ -1,0 +1,7 @@
+{
+  "name": "Service Appointment Dashboard",
+  "description": "A sophisticated dashboard for managing customer appointments from Google Forms, featuring AI-powered schedule analysis and insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
